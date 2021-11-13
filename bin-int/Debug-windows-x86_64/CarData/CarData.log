@@ -1,0 +1,9 @@
+﻿  Application.cpp
+D:\CarData\CarData\src\Core\Application.cpp(116,39): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\CarData\CarData\src\Core\Application.cpp(132,40): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  ImGuiLayer.cpp
+D:\CarData\CarData\src\ImGui\ImGuiLayer.cpp(152,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\CarData\CarData\src\ImGui\ImGuiLayer.cpp(338,52): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\CarData\CarData\src\ImGui\ImGuiLayer.cpp(338,37): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Generating Code...
+  CarData.vcxproj -> D:\CarData\bin\Debug-windows-x86_64\CarData\CarData.exe
