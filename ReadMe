@@ -1,1 +1,2 @@
- CarData is a simple web scraping application that uses a python script to gather data about car sales from a romanian website and provides statistics. It combines C++ and Python and the UI is built using ImGui and OpenGl.
+ CarData is a simple web scraping application that uses a python script to gather data about car sales from a romanian website and provides statistics. 
+ It combines C++ and Python and the UI is built using ImGui and OpenGl.
